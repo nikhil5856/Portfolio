@@ -1,0 +1,43 @@
+﻿body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #004080;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.contact a {
+  margin: 0 10px;
+  color: #ffdd57;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+  background: white;
+  margin: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #004080;
+}
+
+.project {
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #004080;
+  color: white;
+}
